@@ -1,0 +1,3 @@
+# Pipe
+
+<other-component />
