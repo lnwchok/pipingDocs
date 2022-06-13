@@ -18,6 +18,7 @@ module.exports = {
       '@vuepress/register-components',
       {
         componentsDir: path.resolve(__dirname, './components'),
+        componentsDir: path.resolve(__dirname, './components/svg-components'),
       },
     ],
   ],
@@ -31,6 +32,7 @@ module.exports = {
     docsDir: '',
     editLinkText: '',
     lastUpdated: false,
+    contributors: false,
     navbar: nav
   },
     
