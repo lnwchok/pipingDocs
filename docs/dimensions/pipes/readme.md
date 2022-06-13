@@ -6,8 +6,11 @@
 <svg-tees size='120' D='C' />
 <svg-fcplg size='120' D='F' />
 <svg-hcplg size='120' D='H' />
+<svg-swdetail size='144' D='D' B='B' ID='d' J='J'/>
 <svg-capn size='120' D='K' />
 <svg-swage size='120' D='L' />
 <svg-stubn size='120' D='S' />
 <svg-swgelbos size1='280' size2='120' D='L1' />
-<svg-elboelbos size1='320' size2='200' D='L1' />
+<svg-elboelbos size1='320' size2='200' D='L2' />
+<svg-wnelbos size1='320' size2='200' D='L3' />
+<svg-swelbos size1='320' size2='200' D='L4' />
